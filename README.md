@@ -24,6 +24,7 @@ Load an employee and print a statement related to them.
   * Each employee is a UserType, type defined as a map[string]string
   * Very basic use of clojures at top level to show practical uses
   * Communication through channels
+  
   > Gets into linking up multiple channels very quickly, so just did this at the top level
 
 ### OO
